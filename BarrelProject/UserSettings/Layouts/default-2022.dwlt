@@ -322,7 +322,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Model
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -330,16 +330,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Model
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/p3dg/Game Projects/blender-for-unity-Seamus-C/BarrelProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c8400000
-    m_LastClickedID: 16584
-    m_ExpandedIDs: 00000000c840000000ca9a3b
+    m_SelectedIDs: 046a0000
+    m_LastClickedID: 27140
+    m_ExpandedIDs: 000000008268000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000082680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -395,18 +395,18 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000d0be0000
+    m_ExpandedInstanceIDs: c6230000d0be00002a6a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Model
-      m_OriginalName: Model
+      m_Name: Barrel _lod
+      m_OriginalName: Barrel _lod
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 16644
+      m_UserData: 27178
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -509,9 +509,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2ec20000
+      m_SelectedIDs: 526a0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 8ea5fdffe8a5feffeaa5feff92a9feff
+      m_ExpandedIDs: 26fbffff22680000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -918,9 +918,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.4877996, y: 1.3939853, z: 2.8860035}
+    m_Target: {x: -0.15256917, y: -0.4835863, z: 2.7390738}
     speed: 2
-    m_Value: {x: 2.4877996, y: 1.3939853, z: 2.8860035}
+    m_Value: {x: -0.15256917, y: -0.4835863, z: 2.7390738}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -968,11 +968,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.26183018, y: 0.1839093, z: -0.05089835, w: 0.9460612}
     speed: 2
-    m_Value: {x: 0.26183018, y: 0.1839093, z: -0.05089835, w: 0.9460612}
+    m_Value: {x: -0.26183018, y: -0.1839093, z: 0.050898355, w: -0.94606125}
   m_Size:
-    m_Target: 6.752572
+    m_Target: 1.468414
     speed: 2
-    m_Value: 6.752572
+    m_Value: 1.468414
   m_Ortho:
     m_Target: 0
     speed: 2
